@@ -1,0 +1,2 @@
+UniWay is a cab management system designed for day scholars that streamlines transportation offering students a seamless journey with optimal route generation and real time updates.
+It eliminates the everyday hassle that the day scholars face where the drivers do not remember the route to their home, the cab does not follow a straight route and driver has to call everybody to be picked up. Morever, it saves fuel, labour and time.
